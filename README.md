@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @Cilbosswp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cilbosswp/Cilbosswp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fby_tag%2F47395&psig=AOvVaw3ra0EbjMe0ibh1KqFcN8Lt&ust=1616223432105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi45o7ku-8CFQAAAAAdAAAAABAD
+<p align="center">
+  <img src="https://tenor.com/9luJ.gif" alt="GIF" width="360" height="360"/>
